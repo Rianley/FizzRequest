@@ -1,0 +1,19 @@
+{
+    "name": "fizzday/fizzrequest",
+    "description": "a mini http request lib for php (简单的php请求类库)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fizz",
+            "email": "864759073@qq.com"
+        }
+    ],
+    "require": { },
+    "require-dev": { },
+    "autoload": {
+        "psr-4": {
+            "Fizzday\\FizzRequest\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
